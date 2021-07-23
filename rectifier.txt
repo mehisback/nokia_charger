@@ -1,3 +1,5 @@
 full wave rectifier.
 list
 master
+list1
+list2
