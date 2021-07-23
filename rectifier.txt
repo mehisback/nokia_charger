@@ -1,1 +1,2 @@
 full wave rectifier.
+list
